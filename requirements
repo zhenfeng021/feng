@@ -1,0 +1,4 @@
+peewee
+flask_wtf
+wtforms
+flask_login
